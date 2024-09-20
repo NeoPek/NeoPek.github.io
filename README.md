@@ -1,4 +1,3 @@
-## NeoPek.github.io
 # Welcome to My Personal Website
 
 This is NeoPek, a new programmer who want to make a little difference to the World.
