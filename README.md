@@ -3,9 +3,7 @@
 This is NeoPek, a new programmer who want to make a little difference to the World.
 
 ## My Projects
-- Nothing yet.
-- [Project 1](https://linktoyourproject.com): Description of the project.
-- [Project 2](https://linktoyourproject.com): Description of the project.
+- [DeepSeek Easy to Use](https://github.com/NeoPek/DeepSeek-Easy-to-Use)：调用DeepSeek-R1的小玩具
 
 ## Plan for the future
 - Focus on reinforcement learning(RL) currently.
