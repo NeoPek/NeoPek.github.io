@@ -9,7 +9,7 @@ This is NeoPek, a new programmer who want to make a little difference to the Wor
 - [DeepSeek Easy to Use](https://github.com/NeoPek/DeepSeek-Easy-to-Use)：调用DeepSeek-R1的小玩具
 
 ## Plan for the future
-- Focus on reinforcement learning(RL) currently.
+- Focus on reinforcement learning(RL) currently. (abandoned)
 - Hope to learn full stack tech to build a robot.
 - Develop a game with Unreal Engine(UE).
 
